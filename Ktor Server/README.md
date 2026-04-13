@@ -166,7 +166,7 @@ That means the server is fully responsible for producing the UI payload, and the
 ## Run the Server
 
 ```bash
-cd "/Users/mohamednabil/RemoteCompose/Ktor Server"
+cd "/RemoteCompose/Ktor Server"
 ./gradlew run
 ```
 
