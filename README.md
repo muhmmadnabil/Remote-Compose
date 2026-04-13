@@ -207,10 +207,8 @@ If you keep those three roles in mind, the whole architecture becomes much easie
 
 If you want to connect the theory to the code:
 
-- Ktor server README:
-  [Ktor Server README](./Ktor%20Server/README.md)
-- Android README:  
-  [Android README](./Android/README.md)
+- Ktor server README: [Ktor Server README](./Ktor%20Server/README.md)
+- Android README: [Android README](./Android/README.md)
 - Android app entrypoint:
   `app/src/main/java/com/muhmmad/remotecompose/MainActivity.kt`
 - Android network client:
