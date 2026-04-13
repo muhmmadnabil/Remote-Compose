@@ -8,7 +8,7 @@ This module is the Android client for the sample. Its job is simple:
 
 If you want the conceptual explanation first, start here:
 
-- [Remote Compose Guide](./README.md)
+- [Remote Compose Guide](../README.md)
 
 That guide explains:
 
